@@ -4,6 +4,13 @@ version = "0.1.0"
 authors = ["i1i1 <vanyarybin1@live.ru>"]
 edition = "2018"
 
+description = "actix_diesel_cache is crate which provides the actix actor for caching all database entries on local machine."
+documentation = "https://docs.rs/actix_diesel_cache"
+repository = "https://github.com/i1i1/actix_diesel_cache"
+license = "MIT OR Apache-2.0"
+keywords = ["actix", "diesel", "actor", "cache", "database"]
+readme = "README.md"
+
 [dependencies]
 actix = "0.10"
 diesel = "1.4"
